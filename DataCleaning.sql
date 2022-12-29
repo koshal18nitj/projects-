@@ -232,37 +232,3 @@ From NashvilleHousing
 
 ALTER TABLE NashvilleHousing
 DROP COLUMN OwnerAddress,DROP COLUMN  PropertyAddress, DROP COLUMN SaleDate;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
